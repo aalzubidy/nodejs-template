@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+ignore/*
+
+public/files/userUpload/
+public/files/userUpload/**
