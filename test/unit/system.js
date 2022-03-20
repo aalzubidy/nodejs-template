@@ -1,7 +1,7 @@
 const { expect } = require('chai');
-const main = require('../../src/main.js');
+const main = require('../../src/systemSrc');
 
-describe.skip('main.js', function () {
+describe.skip('system.js', function () {
   describe('someFunction', function () {
     it('should return results', function () {
       try {
